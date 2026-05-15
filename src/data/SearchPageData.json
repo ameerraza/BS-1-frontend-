@@ -1,0 +1,396 @@
+{
+  "properties": [
+    {
+      "id": "1",
+      "name": "MacBook Pro 2023",
+      "category": "Electronics",
+      "location": "University District",
+      "description": "16GB RAM, 512GB SSD, M2 Chip",
+      "condition": "Excellent",
+      "price": 1200,
+      "rentPrice": 75,
+      "images": [
+        "https://images.unsplash.com/photo-1517336714731-489689fd1ca8?q=80&w=500",
+        "https://images.unsplash.com/photo-1611186871348-b1ce696e52c9?q=80&w=500",
+        "https://images.unsplash.com/photo-1541807084-5c52b6b3adef?q=80&w=500"
+      ]
+    },
+    {
+      "id": "2",
+      "name": "Chemistry 101 Textbook Bundle",
+      "category": "Textbooks",
+      "location": "Campus Bookstore Area",
+      "description": "Includes study guide and lab manual",
+      "condition": "Good",
+      "price": 0,
+      "rentPrice": 30,
+      "images": [
+        "https://images.unsplash.com/photo-1532634993-15f421e42ec0?q=80&w=500"
+      ]
+    },
+    {
+      "id": "3",
+      "name": "Ergonomic Study Desk",
+      "category": "Furniture",
+      "location": "Student Housing Complex",
+      "description": "Adjustable height, built-in USB ports",
+      "condition": "Like New",
+      "price": 299,
+      "rentPrice": 45,
+      "images": [
+        "https://images.unsplash.com/photo-1518455027359-f3f8164ba6bd?q=80&w=500"
+      ]
+    },
+    {
+      "id": "4",
+      "name": "Graduation Ceremony Suit",
+      "category": "Formal Wear",
+      "location": "Downtown Campus",
+      "description": "Navy Blue, Size 40R",
+      "condition": "Excellent",
+      "price": 0,
+      "rentPrice": 50,
+      "images": [
+        "https://images.unsplash.com/photo-1593030761757-71fae45fa0e7?q=80&w=500"
+      ]
+    },
+    {
+      "id": "5",
+      "name": "Party Speaker System",
+      "category": "Event Equipment",
+      "location": "Student Center",
+      "description": "1000W, Bluetooth, LED lights",
+      "condition": "Good",
+      "price": 0,
+      "rentPrice": 40,
+      "images": [
+        "https://images.unsplash.com/photo-1545454675-3531b543be5d?q=80&w=500"
+      ]
+    },
+    {
+      "id": "6",
+      "name": "Mountain Bike",
+      "category": "Sports Equipment",
+      "location": "Campus Recreation Center",
+      "description": "21-speed, front suspension",
+      "condition": "Good",
+      "price": 0,
+      "rentPrice": 35,
+      "images": [
+        "https://images.unsplash.com/photo-1546868871-7041f2a55e12?q=80&w=500"
+      ]
+    },
+    {
+      "id": "7",
+      "name": "Scientific Calculator",
+      "category": "Electronics",
+      "location": "Engineering Building",
+      "description": "Texas Instruments TI-84 Plus",
+      "condition": "Like New",
+      "price": 100,
+      "rentPrice": 15,
+      "images": [
+        "https://images.unsplash.com/photo-1434030216411-0b793f4b4173?q=80&w=500"
+      ]
+    },
+    {
+      "id": "8",
+      "name": "Dorm Mini Fridge",
+      "category": "Dorm Essentials",
+      "location": "Student Housing",
+      "description": "3.3 cubic feet, with freezer",
+      "condition": "Good",
+      "price": 0,
+      "rentPrice": 25,
+      "images": [
+        "https://images.unsplash.com/photo-1598838073192-05c942ede858?q=80&w=500"
+      ]
+    },
+    {
+      "id": "9",
+      "name": "Biology Lab Kit",
+      "category": "Study Materials",
+      "location": "Science Building",
+      "description": "Complete microscope set with slides",
+      "condition": "Excellent",
+      "price": 0,
+      "rentPrice": 20,
+      "images": [
+        "https://images.unsplash.com/photo-1519682577862-22b62b24e493?q=80&w=500"
+      ]
+    },
+    {
+      "id": "10",
+      "name": "Gaming Monitor",
+      "category": "Electronics",
+      "location": "Tech Hub",
+      "description": "27-inch, 144Hz, 1ms response time",
+      "condition": "Like New",
+      "price": 400,
+      "rentPrice": 45,
+      "images": [
+        "https://images.unsplash.com/photo-1540104539488-92a51bbc0410?q=80&w=500"
+      ]
+    },
+    {
+      "id": "11",
+      "name": "Wireless Keyboard",
+      "category": "Electronics",
+      "location": "Computer Lab",
+      "description": "Mechanical switches, RGB backlight",
+      "condition": "Excellent",
+      "price": 100,
+      "rentPrice": 15,
+      "images": [
+        "https://images.unsplash.com/photo-1588421357574-87938a86fa28?q=80&w=500"
+      ]
+    },
+    {
+      "id": "12",
+      "name": "Calculus Textbook Set",
+      "category": "Textbooks",
+      "location": "Math Department",
+      "description": "Calculus I, II, and III",
+      "condition": "Good",
+      "price": 0,
+      "rentPrice": 40,
+      "images": [
+        "https://images.unsplash.com/photo-1561141037-b9a94ae4488c?q=80&w=500"
+      ]
+    },
+    {
+      "id": "13",
+      "name": "Tennis Racket Set",
+      "category": "Sports Equipment",
+      "location": "Sports Complex",
+      "description": "Professional grade, includes 3 balls",
+      "condition": "Good",
+      "price": 0,
+      "rentPrice": 20,
+      "images": [
+        "https://images.unsplash.com/photo-1542546068979-b6affb46ea8f?q=80&w=500"
+      ]
+    },
+    {
+      "id": "14",
+      "name": "Study Lamp with USB",
+      "category": "Dorm Essentials",
+      "location": "Residence Hall",
+      "description": "LED, adjustable brightness, wireless charging",
+      "condition": "Like New",
+      "price": 50,
+      "rentPrice": 15,
+      "images": [
+        "https://images.unsplash.com/photo-1600431521340-491eca880813?q=80&w=500"
+      ]
+    },
+    {
+      "id": "15",
+      "name": "iPad Pro 12.9",
+      "category": "Electronics",
+      "location": "Library",
+      "description": "256GB, Apple Pencil included",
+      "condition": "Excellent",
+      "price": 999,
+      "rentPrice": 65,
+      "images": [
+        "https://images.unsplash.com/photo-1595427538219-afb309706025?q=80&w=500"
+      ]
+    },
+    {
+      "id": "16",
+      "name": "Formal Dress",
+      "category": "Formal Wear",
+      "location": "Fashion Department",
+      "description": "Size 8, Black, Knee Length",
+      "condition": "Like New",
+      "price": 0,
+      "rentPrice": 40,
+      "images": [
+        "https://images.unsplash.com/photo-1534452203293-494d7ddbf7e0?q=80&w=500"
+      ]
+    },
+    {
+      "id": "17",
+      "name": "DSLR Camera Kit",
+      "category": "Electronics",
+      "location": "Media Center",
+      "description": "Canon EOS, 18-55mm lens",
+      "condition": "Excellent",
+      "price": 0,
+      "rentPrice": 50,
+      "images": [
+        "https://images.unsplash.com/photo-1526406915894-7bcd65f60845?q=80&w=500"
+      ]
+    },
+    {
+      "id": "18",
+      "name": "Electric Guitar",
+      "category": "Event Equipment",
+      "location": "Music Department",
+      "description": "Fender Stratocaster with amp",
+      "condition": "Good",
+      "price": 0,
+      "rentPrice": 45,
+      "images": [
+        "https://images.unsplash.com/photo-1595814433015-e6f5ce69614e?q=80&w=500"
+      ]
+    },
+    {
+      "id": "19",
+      "name": "Physics Lab Equipment",
+      "category": "Study Materials",
+      "location": "Physics Building",
+      "description": "Complete mechanics kit",
+      "condition": "Good",
+      "price": 0,
+      "rentPrice": 35,
+      "images": [
+        "https://images.unsplash.com/photo-1591247378418-c77f1532d2f8?q=80&w=500"
+      ]
+    },
+    {
+      "id": "20",
+      "name": "Modern Coffee Table",
+      "category": "Furniture",
+      "location": "Student Apartments",
+      "description": "Glass top, storage shelf",
+      "condition": "Like New",
+      "price": 150,
+      "rentPrice": 30,
+      "images": [
+        "https://images.unsplash.com/photo-1519710164239-da123dc03ef4?q=80&w=500"
+      ]
+    },
+    {
+      "id": "21",
+      "name": "Gaming Console",
+      "category": "Electronics",
+      "location": "Student Lounge",
+      "description": "PlayStation 5 with 2 controllers",
+      "condition": "Excellent",
+      "price": 499,
+      "rentPrice": 55,
+      "images": [
+        "https://images.unsplash.com/photo-1550009158-9ebf69173e03?q=80&w=500"
+      ]
+    },
+    {
+      "id": "22",
+      "name": "Drum Set",
+      "category": "Event Equipment",
+      "location": "Music Room",
+      "description": "5-piece set with cymbals",
+      "condition": "Good",
+      "price": 0,
+      "rentPrice": 60,
+      "images": [
+        "https://images.unsplash.com/photo-1535955565956-4a631d6ed956?q=80&w=500"
+      ]
+    },
+    {
+      "id": "23",
+      "name": "Wireless Mouse",
+      "category": "Electronics",
+      "location": "Computer Center",
+      "description": "Logitech MX Master 3",
+      "condition": "Like New",
+      "price": 70,
+      "rentPrice": 10,
+      "images": [
+        "https://images.unsplash.com/photo-1588196749597-9ff075ee6b5b?q=80&w=500"
+      ]
+    },
+    {
+      "id": "24",
+      "name": "Microwave Oven",
+      "category": "Dorm Essentials",
+      "location": "Residence Hall",
+      "description": "1000W, 1.1 cu ft",
+      "condition": "Good",
+      "price": 0,
+      "rentPrice": 20,
+      "images": [
+        "https://images.unsplash.com/photo-1621600411688-4be93cd68504?q=80&w=500"
+      ]
+    },
+    {
+      "id": "25",
+      "name": "Art Supplies Set",
+      "category": "Study Materials",
+      "location": "Art Department",
+      "description": "Complete painting kit",
+      "condition": "Good",
+      "price": 0,
+      "rentPrice": 25,
+      "images": [
+        "https://images.unsplash.com/photo-1544161515-4ab6ce6db874?q=80&w=500"
+      ]
+    },
+    {
+      "id": "26",
+      "name": "Badminton Set",
+      "category": "Sports Equipment",
+      "location": "Indoor Sports Complex",
+      "description": "4 rackets, nets, and shuttlecocks",
+      "condition": "Good",
+      "price": 0,
+      "rentPrice": 15,
+      "images": [
+        "https://images.unsplash.com/photo-1499438075715-fc23ef376ab9?q=80&w=500"
+      ]
+    },
+    {
+      "id": "27",
+      "name": "Psychology Textbooks",
+      "category": "Textbooks",
+      "location": "Library",
+      "description": "Complete semester set",
+      "condition": "Good",
+      "price": 0,
+      "rentPrice": 45,
+      "images": [
+        "https://images.unsplash.com/photo-1518481612222-68bbe828ecd1?q=80&w=500"
+      ]
+    },
+    {
+      "id": "28",
+      "name": "Mini Projector",
+      "category": "Electronics",
+      "location": "Study Center",
+      "description": "1080p, 3800 lumens",
+      "condition": "Like New",
+      "price": 200,
+      "rentPrice": 40,
+      "images": [
+        "https://images.unsplash.com/photo-1540574163026-643ea20ade25?q=80&w=500"
+      ]
+    },
+    {
+      "id": "29",
+      "name": "Formal Blazer",
+      "category": "Formal Wear",
+      "location": "Career Center",
+      "description": "Navy, Size M",
+      "condition": "Excellent",
+      "price": 0,
+      "rentPrice": 30,
+      "images": [
+        "https://images.unsplash.com/photo-1595781572981-d63151b232ed?q=80&w=500"
+      ]
+    },
+    {
+      "id": "30",
+      "name": "Acoustic Guitar",
+      "category": "Event Equipment",
+      "location": "Music Department",
+      "description": "Martin DX1AE",
+      "condition": "Excellent",
+      "price": 0,
+      "rentPrice": 40,
+      "images": [
+        "https://images.unsplash.com/photo-1585314062340-f1a5a7c9328?q=80&w=500"
+      ]
+    }
+  ]
+}
